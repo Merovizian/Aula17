@@ -22,9 +22,6 @@ while True:
         lista.append(int(numero))
         print(f"O valor {numero} foi adicionado no final da lista\n{lista}")
 
-
-
-
     contador += 1
     aux = 0
 
